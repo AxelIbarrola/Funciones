@@ -1,0 +1,10 @@
+1. Crea una función multiplicar() que contenga un único parámetro
+2. Este parámetro debe poder recibir una serie de numeros como argumentos
+3. Eso se logra poniendo un * delante del nombre del parámetro. Esta te permite guardar diferentes argumentos en un solo parametro
+4. Este parámetro se transforma en una tupla que contiene todos los argumentos que le han sido asignados
+5. La función debe retornar el resultado total de multiplicar todos los numeros
+
+EJEMPLO:
+Si recibe los números 3, 4, 5, 6
+Debe retornar el resultado de hacer 3 * 4 * 5 * 6
+Esta función retornaria: 360
