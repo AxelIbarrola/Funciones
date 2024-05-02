@@ -1,0 +1,8 @@
+1. Cree una función obtener_mejor_alumno() que contenga un único parámetro
+2. Este único parámetro debe poder recibir como argumento una serie de pares clave = valor
+3. Esto se logra poniendo ** delante del nombre del parámetro
+4. Los argumentos asignados al parámetro son recibidos como un diccionario
+5. La función debera recibir pares de clave = valor que contengan el nombre y la nota del alumno. Ejemplo: Fabiana = 6, el argumento se pasa son comillas ni nada (nisiquiera para los strings)
+6. La función deberá retornas el nombre del alumno con la nota mas alta
+
+Recuerde que dentro de la función debe trabajar con el parámetro asignado como si fuera un diccionario (que de hecho lo es)
