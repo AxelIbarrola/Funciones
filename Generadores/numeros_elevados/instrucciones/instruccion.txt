@@ -1,0 +1,2 @@
+Escriba una función generadora que devuelva los 100 primeros
+números elevados al cuadrado.
